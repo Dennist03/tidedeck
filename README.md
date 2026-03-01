@@ -4,7 +4,14 @@
 
 ---
 
-<img src="https://github.com/user-attachments/assets/placeholder-main" alt="TideDeck Dashboard - Main" width="100%">
+<img src="https://github.com/user-attachments/assets/e76e64e1-610f-4798-9651-982adff58e23" alt="TideDeck Dashboard - Main" width="100%">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4f2a6c54-a435-469a-9cc6-1f2cf495cd97" alt="TideDeck Desktop View" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/ef947fa1-83fb-48a5-804b-0bc397aaf3db" alt="TideDeck Mobile View" width="100%"></td>
+  </tr>
+</table>
 
 ---
 
